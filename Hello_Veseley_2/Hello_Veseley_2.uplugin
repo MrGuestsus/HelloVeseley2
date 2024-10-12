@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Hello_Veseley_2",
+	"Description": "in this mod yo dai",
+	"Category": "Other",
+	"CreatedBy": "huesosina",
+	"CreatedByURL": "https://vseigru.net/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.20.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false
+}
